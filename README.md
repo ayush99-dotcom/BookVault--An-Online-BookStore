@@ -4,15 +4,6 @@ Book Vault is a web-based eCommerce platform developed to streamline the operati
 
 ---
 
-## 🚀 Project Objective
-
-The primary aim of Book Vault is to:
-- Replace the traditional manual book management system with an efficient digital system.
-- Provide customers with an easy, intuitive way to browse and purchase books online.
-- Allow store administrators to manage inventory, track orders, and view analytics from a central dashboard.
-
----
-
 ## 🧠 Problem Statement
 
 Hamro Book Pasal currently faces:
@@ -24,11 +15,10 @@ Hamro Book Pasal currently faces:
 
 ## 🎯 Objectives
 
-- 🔍 Enable users to search, browse, and buy books.
-- 🛒 Allow cart management and track order history.
-- 💳 Facilitate online transactions.
-- 🤖 Recommend books based on genre and ratings.
-- 🧾 Enable admins to update inventory and order statuses.
+- 🔍 To make it easier for user to search books, add books to cart, make purchases 
+      online and follow order history. 
+- 🛒 To facilitate online transactions, manage and update inventory, and recommend 
+      books based on certain criteria. 
 
 ---
 
@@ -56,7 +46,6 @@ Hamro Book Pasal currently faces:
 | **Server Environment** | XAMPP                           |
 | **IDE**                | Visual Studio Code              |
 | **Browser**            | Google Chrome, Microsoft Edge   |
-| **Diagrams**           | Lucidchart, draw.io, dbdiagram.io |
 
 ---
 
